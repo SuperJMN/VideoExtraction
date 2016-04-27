@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfClient", "WpfClient\WpfClient.csproj", "{AA20228C-62BE-4D99-AB87-84B4B0F6A794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extraction.FullFx", "Extraction.FullFx\Extraction.FullFx.csproj", "{E39D4BA5-0473-4C4B-B6E2-0D8CFBEFFC9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA20228C-62BE-4D99-AB87-84B4B0F6A794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA20228C-62BE-4D99-AB87-84B4B0F6A794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA20228C-62BE-4D99-AB87-84B4B0F6A794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA20228C-62BE-4D99-AB87-84B4B0F6A794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39D4BA5-0473-4C4B-B6E2-0D8CFBEFFC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39D4BA5-0473-4C4B-B6E2-0D8CFBEFFC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39D4BA5-0473-4C4B-B6E2-0D8CFBEFFC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39D4BA5-0473-4C4B-B6E2-0D8CFBEFFC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
